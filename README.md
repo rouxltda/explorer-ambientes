@@ -6,7 +6,6 @@ Projeto desenvolvido durante o curso Full Stack da Rocketseat. <br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -33,10 +32,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Ambientes Customizados é uma LP para vendas de moveis planejados.
 
 - [Acesse o projeto finalizado, online](https://rouxltda.github.io/explorer-ambientes)
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/cQzjCX8EWl221LogQX5lUg). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
